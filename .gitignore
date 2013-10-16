@@ -1,0 +1,12 @@
+# makepkg artifacts
+pkg/
+src/
+*.tar.xz
+
+# Downloaded source
+*.tar.gz
+
+# Emacs autosaves and backups
+\#*#
+*~
+.\#*
